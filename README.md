@@ -6,3 +6,4 @@ This repo contains various Computer Vision projects, like:
 3. Motion Tracker
 4. Document Scanner
 5. Ball Tracker
+6. Object Counting (using contouring, edge-detection, masking via OpenCV)
